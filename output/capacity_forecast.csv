@@ -1,0 +1,2 @@
+method,recommended_gpu_capacity,recent_mean_allocated_gpu
+14-day mean + 15% buffer,71,61.29
