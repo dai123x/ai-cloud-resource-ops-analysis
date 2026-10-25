@@ -1,0 +1,5 @@
+team,avg_gpu_util,total_cost,idle_records,estimated_idle_cost,avg_gpu_util_pct
+Inference,0.5962785714285713,331560.0,1,778.12,59.63
+LLM-Train,0.7206781250000001,321016.0,0,0.0,72.07
+Multimodal,0.499625,291376.0,12,15303.25,49.96
+Research,0.31884598214285714,286208.0,59,76055.01,31.88
